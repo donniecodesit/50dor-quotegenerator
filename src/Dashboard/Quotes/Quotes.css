@@ -41,3 +41,17 @@
   font-size: 1rem;
   text-align: end;
 }
+
+@media all and (max-width: 600px) {
+    #text {
+        font-size: 22px;
+    }
+
+    #quote-box {
+        background-color: white;
+        text-align: center;
+        width: 350px;
+        border-radius: 3px;
+        padding: 45px 50px;
+      }
+}
