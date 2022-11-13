@@ -10,7 +10,7 @@ export default function Footer() {
           href="https://github.com/donniecodesit"
           target="_blank"
         >
-          donovanlaws 👀
+          donniecodesit 👀
         </a>
       </div>
       <div>
