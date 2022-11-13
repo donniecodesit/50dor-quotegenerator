@@ -7,7 +7,7 @@ export default function Footer() {
         <span>App by </span>
         <a
           rel="noopener noreferrer"
-          href="https://github.com/donovanlaws"
+          href="https://github.com/donniecodesit"
           target="_blank"
         >
           donovanlaws 👀
