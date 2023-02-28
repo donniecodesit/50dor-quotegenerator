@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-quote-generator/static/css/main.6ddcfe42.css",
-    "main.js": "/react-quote-generator/static/js/main.8d868377.js",
-    "static/js/787.446115bd.chunk.js": "/react-quote-generator/static/js/787.446115bd.chunk.js",
-    "index.html": "/react-quote-generator/index.html",
-    "main.6ddcfe42.css.map": "/react-quote-generator/static/css/main.6ddcfe42.css.map",
-    "main.8d868377.js.map": "/react-quote-generator/static/js/main.8d868377.js.map",
-    "787.446115bd.chunk.js.map": "/react-quote-generator/static/js/787.446115bd.chunk.js.map"
+    "main.css": "/50dor-quotegenerator/static/css/main.6ddcfe42.css",
+    "main.js": "/50dor-quotegenerator/static/js/main.41bde7b5.js",
+    "static/js/787.446115bd.chunk.js": "/50dor-quotegenerator/static/js/787.446115bd.chunk.js",
+    "index.html": "/50dor-quotegenerator/index.html",
+    "main.6ddcfe42.css.map": "/50dor-quotegenerator/static/css/main.6ddcfe42.css.map",
+    "main.41bde7b5.js.map": "/50dor-quotegenerator/static/js/main.41bde7b5.js.map",
+    "787.446115bd.chunk.js.map": "/50dor-quotegenerator/static/js/787.446115bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ddcfe42.css",
-    "static/js/main.8d868377.js"
+    "static/js/main.41bde7b5.js"
   ]
 }
